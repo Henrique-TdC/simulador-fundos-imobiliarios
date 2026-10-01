@@ -134,7 +134,8 @@ Além do que o desafio pede, acrescentei:
 
 ### Perfil Arrojado
 
-<img width="856" height="214" alt="image" src="https://github.com/user-attachments/assets/646765a4-0e50-4acc-bd83-2ce061b43327" />
+<img width="856" height="208" alt="image" src="https://github.com/user-attachments/assets/9ab76abb-98ee-4498-8b8b-181db420cb27" />
+
 
 
 ## Limitações
